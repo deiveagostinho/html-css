@@ -1,0 +1,31 @@
+
+.header{
+  background: yellow;
+height: 100px;
+width: 100%;
+}
+
+.footer {
+  background: #0EBFE9;
+  height: 20px;
+  width: 100%;
+  color: white;
+}
+.sidebar {
+  background: red;
+  height: 180px;
+  width: 20%;
+
+}
+
+.sidebar ul {
+  margin: 0;
+}
+.article {
+  width: 80%;
+  background: black;
+  color: white;
+}
+.main {
+  display: flex;
+}
